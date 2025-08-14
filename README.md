@@ -33,7 +33,7 @@ I'm currently in the process of building my portfolio here and would love any fe
 
 ### 📫 Let’s connect
 - **Resume** → [View here](https://docs.google.com/document/d/191RrJ10AybRiR1Lgz5itqYG94DnYJsO9CgMm4jCY5CE/edit?usp=sharing)  
-- **Email** → ZainNasim@gmail.com  
+- **Email** → [ZainNasim@gmail.com](ZainNasim@gmail.com)
 - **LinkedIn** → [linkedin.com/in/zain-nasim](https://www.linkedin.com/in/zain-nasim/)  
 
 If you’re building AI/ML tools that solve real problems or just want to talk I’d love to connect. 🙂
