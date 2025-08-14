@@ -2,7 +2,6 @@
 
 I’m Zain and I'm currently working on my Masters in Data Science at UC Berkeley.  
 I enjoy building things that make data *useful* — from AI that can spot fractures in X-rays, to workflows that connect data across messy systems, to graph models that help us understand how people and information move.
-I'm currently in the process of building my portfolio here and would love any feedback! All hyperlinks will be added in as the projects in question are uploaded to my public repo
 
 ---
 
@@ -35,5 +34,7 @@ I'm currently in the process of building my portfolio here and would love any fe
 - **Resume** → [View here](https://docs.google.com/document/d/191RrJ10AybRiR1Lgz5itqYG94DnYJsO9CgMm4jCY5CE/edit?usp=sharing)  
 - **Email** → [ZainNasim@gmail.com](ZainNasim@gmail.com)
 - **LinkedIn** → [linkedin.com/in/zain-nasim](https://www.linkedin.com/in/zain-nasim/)  
+
+I'm currently in the process of building my portfolio here and would love any feedback! All hyperlinks will be added in as the projects in question are uploaded to my public repo
 
 If you’re building AI/ML tools that solve real problems or just want to talk I’d love to connect. 🙂
