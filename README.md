@@ -18,7 +18,7 @@ I'm currently in the process of building my portfolio here and would love any fe
 - **Bone Fracture Detection (CNN + Grad-CAM)**  
   Deep learning model to flag possible tibia/fibula fractures from X-rays, complete with explainable AI overlays.
 - **SQL Entity Resolution Pipeline**  
-  Match customers across systems without handing over raw data — precision/recall metrics included.
+  Match customers across systems without handing over raw data, complete with precision/recall metrics.
 - **Refugee Flows Graph (Neo4j)**  
   Explore shortest paths, hubs, and patterns in migration routes.
 
