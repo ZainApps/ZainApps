@@ -25,7 +25,7 @@ I'm currently in the process of building my portfolio here and would love any fe
 ---
 
 ### 🌱 Currently learning
-- Applied NLP
+- Applied NLP and LLM frameworks
 - Agent frameworks (LangGraph, CrewAI, AutoGen)
 - How to make side projects actually *look* as good as they work
 
